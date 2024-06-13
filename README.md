@@ -5,5 +5,7 @@
 2. Decision Tree <br>
 3. Random Forest <br>
 4. Cascading Classifiers 
-![image](https://github.com/Taha-Jamal/AI-Project/assets/150898721/ae1727e2-8dda-4651-abe4-520fd74980fc)
+<br>
+![image](https://github.com/Taha-Jamal/AI-Project/assets/150898721/5740c2f4-9db2-4a7b-9216-efbc353371c7)
+
 
